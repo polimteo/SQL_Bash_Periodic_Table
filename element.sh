@@ -18,6 +18,7 @@ then
     
   fi
 
+    #check if empty
     if [[ -z $ELEMENT ]]
 
       then
